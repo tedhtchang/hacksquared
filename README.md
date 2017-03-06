@@ -1,6 +1,6 @@
-# Go Hello World Sample
+# Hack<sup>2</sup>
 
-This application demonstrates a simple, reusable Go web application.
+This is a simple Go web application demonstrating miscellaneous functionality.
 
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/go-helloworld)
 
