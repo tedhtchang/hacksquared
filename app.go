@@ -16,7 +16,6 @@ const (
 var index = template.Must(template.ParseFiles(
   "templates/_base.html",
   "templates/index.html",
-  "templates/us2sane.html",
 ))
 
 var converter = template.Must(template.ParseFiles(
